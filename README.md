@@ -1,4 +1,4 @@
 # Fundamentals of Deep Learning
 
-## Notebook1:
+## Notebook 1:
    ANN ile MNSIT veri seti
